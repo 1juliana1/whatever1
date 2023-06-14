@@ -1,0 +1,14 @@
+.video-section {
+  flex-grow: 1;
+  display: flex;
+}
+
+.video-section video {
+ width: 100%; 
+  object-fit: cover;
+  height: 100vh;
+   opacity: 0.5;
+}
+ .header{
+  background-color: #2f3b46;
+ }
